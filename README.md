@@ -8,4 +8,4 @@ Bagels is a deduction game in which the player tries to guess a random three-dig
 
 **Fermi:** The guess has a correct digit in the correct place.
 
-The computer can give multiple clues, which are sorted in alphabetical order. If the secret number is 456 and the player’s guess is 546, the clues would be “fermi pico pico.” The “fermi” is from the 6 and “pico pico” are from the 4 and 5.
+The computer can give multiple clues, which are sorted in alphabetical order. For example, if the secret number is 456 and the player’s guess is 546, the clues would be “fermi pico pico.” The “fermi” is from the 6 and “pico pico” are from the 4 and 5.
